@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 			features = ".//Features/",
 			glue = {"stepDefinitions"},
-			tags = "@SanityTest",
+			tags = "@SanityTest, @RegressionTest",
 			dryRun = false,
 			monochrome = true,
 			plugin = {"pretty", "html:test-output.html"}
