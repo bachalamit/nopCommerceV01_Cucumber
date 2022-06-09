@@ -100,8 +100,9 @@ public class AddCustomerPage {
 	
 	public void setCustomerRole(String role) throws InterruptedException
 	{
+		
 		ldriver.findElement(companyRole).click();
-			
+		ldriver.findElement(By.xpath("//*[@id=\"SelectedCustomerRoleIds_taglist\"]/li/span[2]")).click();
 		WebElement listItems = null;
 		Thread.sleep(3000);
 		
@@ -131,12 +132,12 @@ public class AddCustomerPage {
 		js.executeScript("arguments[0].click();", listItems);
 }
 		
-	/*public void setNewsLetter(String newsLetter)
+/*	public void setNewsLetter(String newsLetter)
 	{
 		Select drop = new Select(ldriver.findElement(NewsLetter));
 		drop.selectByVisibleText(newsLetter);
-	}
-*/	public void setmanagerofvendor(String value)
+	}*/
+	public void setmanagerofvendor(String value)
 	{
 		Select drop = new Select(ldriver.findElement(managerofvendor));
 		drop.selectByVisibleText(value);

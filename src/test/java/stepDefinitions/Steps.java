@@ -164,7 +164,7 @@ public class Steps extends BaseClass{
 		Thread.sleep(3000);
 		
 	//	cp.setNewsLetter("Test store 2");
-		//cp.setmanagerofvendor("Vendor 1");
+		cp.setmanagerofvendor("Vendor 1");
 		cp.setActive();
 		cp.setAdminComment("This for testing.........");
 		

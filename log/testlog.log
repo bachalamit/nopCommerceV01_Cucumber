@@ -358,3 +358,318 @@
 2022-06-08 19:09:14,790 - nopCommerce -INFO - Providing Login Details
 2022-06-08 19:09:15,122 - nopCommerce -INFO - Started Login Process
 2022-06-08 19:09:23,731 - nopCommerce -INFO - *****Login Passed********
+2022-06-09 10:57:44,801 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 10:57:44,882 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 10:57:50,076 - nopCommerce -INFO - Providing Login Details
+2022-06-09 10:57:50,315 - nopCommerce -INFO - Started Login Process
+2022-06-09 10:58:01,794 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 10:58:13,950 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 10:58:13,952 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 10:58:15,470 - nopCommerce -INFO - Providing Login Details
+2022-06-09 10:58:15,706 - nopCommerce -INFO - Started Login Process
+2022-06-09 10:58:36,257 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 10:58:48,394 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 10:58:48,398 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 10:58:49,176 - nopCommerce -INFO - Providing Login Details
+2022-06-09 10:58:49,377 - nopCommerce -INFO - Started Login Process
+2022-06-09 10:58:57,941 - nopCommerce -INFO - *****Login Passed********
+2022-06-09 11:03:43,200 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:03:43,255 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:03:44,844 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:03:45,075 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:03:57,479 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:04:12,181 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:04:12,181 - nopCommerce -INFO - *****Closing Browser********
+2022-06-09 11:04:15,604 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:04:15,613 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:04:16,326 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:04:16,569 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:05:50,132 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:05:50,134 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:05:51,868 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:05:52,098 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:06:00,844 - nopCommerce -INFO - *****Login Passed********
+2022-06-09 11:09:21,004 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:09:21,063 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:09:22,621 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:09:22,818 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:09:35,125 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:09:47,497 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:09:47,503 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:10:37,570 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:10:37,570 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:10:39,199 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:10:39,418 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:10:48,059 - nopCommerce -INFO - *****Login Passed********
+2022-06-09 11:16:25,185 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:16:25,256 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:16:27,100 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:16:27,343 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:17:08,381 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:28:56,359 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:28:56,395 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:29:20,365 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:29:20,394 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:29:45,478 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:29:45,525 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:29:47,144 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:29:47,377 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:30:14,778 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:30:30,383 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:30:30,383 - nopCommerce -INFO - *****Closing Browser********
+2022-06-09 11:35:16,735 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:35:16,780 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:35:17,541 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:35:17,809 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:35:42,460 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:35:42,495 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:35:43,586 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:35:43,876 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:35:45,164 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:35:59,750 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:36:00,308 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:36:00,311 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:36:01,947 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:36:02,246 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:36:02,852 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:36:08,372 - nopCommerce -INFO - *****Adding New Customer********
+2022-06-09 11:36:08,372 - nopCommerce -INFO - *****Providing Customer Details********
+2022-06-09 11:36:17,834 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:36:18,313 - nopCommerce -INFO - *****Saving Customer Data********
+2022-06-09 11:36:20,995 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:36:22,244 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 11:36:23,346 - nopCommerce -INFO - *****Successfully Added********
+2022-06-09 11:36:23,350 - nopCommerce -INFO - *****Closing Browser********
+2022-06-09 11:36:26,736 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:36:26,744 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:36:27,400 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:36:27,638 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:36:31,130 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:36:31,137 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:36:31,795 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:36:32,099 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:36:43,059 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:36:46,215 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:36:47,483 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:36:47,991 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 11:36:50,583 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:36:52,310 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 11:36:55,472 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:36:55,480 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:36:56,202 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:36:56,531 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:36:59,586 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:36:59,594 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:37:00,274 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:37:00,555 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:37:11,385 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:37:12,209 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:37:14,527 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:37:16,376 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 11:37:22,868 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:37:22,868 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:37:25,726 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:37:25,727 - nopCommerce -INFO - *****Closing Browser********
+2022-06-09 11:37:29,055 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:37:29,055 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:37:29,716 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:37:29,947 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:37:39,981 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:37:40,288 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:37:44,387 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:37:51,272 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:37:58,030 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:37:58,030 - nopCommerce -INFO - *****Closing Browser********
+2022-06-09 11:38:01,356 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:38:01,356 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:38:02,071 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:38:02,420 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:38:04,973 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:38:04,974 - nopCommerce -INFO - *****Closing Browser********
+2022-06-09 11:38:08,273 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:38:08,283 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:38:08,978 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:38:09,279 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:38:11,009 - nopCommerce -INFO - *****Login Passed********
+2022-06-09 11:38:22,956 - nopCommerce -INFO - *****Login Failed********
+2022-06-09 11:38:35,095 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:38:35,098 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:38:35,761 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:38:35,925 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:38:44,442 - nopCommerce -INFO - *****Login Passed********
+2022-06-09 11:53:06,278 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:53:06,314 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:53:27,264 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:53:27,266 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:53:28,971 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:53:29,193 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:53:44,879 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:53:48,019 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:53:49,371 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 11:58:35,814 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:58:35,854 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:58:37,605 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:58:37,817 - nopCommerce -INFO - Started Login Process
+2022-06-09 11:58:53,420 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 11:58:56,522 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 11:58:57,864 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 11:59:05,665 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 11:59:05,667 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 11:59:07,310 - nopCommerce -INFO - Providing Login Details
+2022-06-09 11:59:07,573 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:00:11,518 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:00:26,697 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:00:26,751 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:00:28,512 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:00:28,714 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:00:44,278 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:00:47,371 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:00:50,052 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 12:00:56,415 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:00:56,419 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:00:57,145 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:00:57,395 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:01:14,083 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:01:17,182 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:13:26,221 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:13:26,262 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:13:31,247 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:13:31,462 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:13:55,571 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:13:58,681 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:14:01,220 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 12:14:07,580 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:14:07,583 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:14:24,497 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:14:24,720 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:14:46,463 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:14:49,578 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:14:50,927 - nopCommerce -INFO - *****Serching by Email ID********
+2022-06-09 12:22:05,445 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:22:05,480 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:22:07,139 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:22:07,374 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:22:22,834 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:22:25,947 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:22:32,964 - nopCommerce -INFO - *****Adding New Customer********
+2022-06-09 12:22:32,964 - nopCommerce -INFO - *****Providing Customer Details********
+2022-06-09 12:27:08,386 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:27:08,421 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:27:26,867 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:27:26,899 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:27:28,626 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:27:28,874 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:27:44,361 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:27:47,510 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:27:53,823 - nopCommerce -INFO - *****Adding New Customer********
+2022-06-09 12:27:53,823 - nopCommerce -INFO - *****Providing Customer Details********
+2022-06-09 12:28:03,851 - nopCommerce -INFO - *****Saving Customer Data********
+2022-06-09 12:28:39,409 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:28:39,456 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:28:41,077 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:28:41,293 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:28:57,042 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:29:00,136 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:29:33,111 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:29:33,138 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:29:34,227 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:29:34,378 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:29:50,863 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:29:53,944 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:30:19,974 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:30:20,002 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:30:21,042 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:30:21,201 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:30:45,382 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:30:45,408 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:30:46,950 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:30:47,107 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:30:48,790 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:31:17,872 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:31:20,950 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:32:06,069 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:32:06,096 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:32:07,175 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:32:07,329 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:32:23,330 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:32:26,407 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:32:53,260 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:32:53,285 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:32:54,404 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:32:54,554 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:33:09,847 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:33:12,920 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:34:02,774 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:34:02,801 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:34:19,746 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:34:19,773 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:34:20,557 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:34:20,717 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:34:35,943 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:34:39,034 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:35:26,200 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:35:26,230 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:35:27,820 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:35:27,982 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:35:54,554 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:35:54,579 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:35:56,116 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:35:56,284 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:35:57,309 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:36:17,997 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:36:18,025 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:36:20,844 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:36:40,331 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:36:40,361 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:36:41,418 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:36:41,581 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:36:58,696 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:37:01,800 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:38:11,385 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:38:11,412 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:38:12,971 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:38:13,120 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:38:28,690 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:38:31,764 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:38:59,913 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:38:59,940 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:39:00,567 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:39:00,720 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:39:15,992 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:39:19,076 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:41:30,271 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:41:30,313 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:41:31,361 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:41:31,522 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:41:47,960 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:41:51,027 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:43:00,282 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:43:00,309 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:43:01,807 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:43:01,971 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:43:18,306 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:43:21,396 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:43:54,757 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:43:54,785 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:43:56,398 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:43:56,565 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:44:20,861 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:44:20,886 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:44:22,483 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:44:22,637 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:44:24,109 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:44:53,083 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:44:56,144 - nopCommerce -INFO - *****Menu Item Is Displayed********
+2022-06-09 12:45:18,387 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:45:18,416 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:45:46,612 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:45:46,641 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:45:47,736 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:45:47,892 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:46:03,491 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:46:10,897 - nopCommerce -INFO - *****Launching Browser********
+2022-06-09 12:46:10,925 - nopCommerce -INFO - *****Opening URL********
+2022-06-09 12:46:12,510 - nopCommerce -INFO - Providing Login Details
+2022-06-09 12:46:12,669 - nopCommerce -INFO - Started Login Process
+2022-06-09 12:46:28,117 - nopCommerce -INFO - *****Dashboard********
+2022-06-09 12:46:31,197 - nopCommerce -INFO - *****Menu Item Is Displayed********

@@ -9,11 +9,11 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 			features = ".//Features/",
 			glue = {"stepDefinitions"},
-		//	tags = "@SanityTest, @RegressionTest",
+		//	tags = "@SanityTest",
 			dryRun = false,
 			monochrome = true,
-			plugin = {"pretty", "html:test-output.html"}
-			
+			plugin = {"pretty", "html:test-output.html", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
+					
 		)
 
 public class TestRunner {

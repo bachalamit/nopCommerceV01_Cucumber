@@ -100,7 +100,9 @@ public class SearchCustomerPage extends BaseClass{
 		
 		for(int i=1; i<=getNoOfRows();i++)
 		{
-			String emailid = table.findElement(By.xpath("//tabel[@id='customers-grid']//tbody/tr["+i+"]/td[2]")).getText();
+			String emailid = table.findElement(By.xpath("//table[@id='customers-grid']//tbody/tr["+i+"]/td[2]")).getText();
+			//String emailid = table.findElement(By.xpath("//td[normalize-space()='victoria_victoria@nopCommerce.com']")).getText();
+			
 			System.out.println(emailid);
 			
 			if(emailid.equals(email))
@@ -118,6 +120,7 @@ public class SearchCustomerPage extends BaseClass{
 		for(int i=1; i<=getNoOfRows();i++)
 		{
 			String name = table.findElement(By.xpath("//tabel[@id='customers-grid']//tbody/tr["+i+"]/td[3]")).getText();
+			//String name = table.findElement(By.xpath("//td[normalize-space()='Victoria Terces']")).getText();
 
 			String names[]=name.split(" ");
 			if(names[0].equals("Victoria") && names[1].equals("Terces"))
